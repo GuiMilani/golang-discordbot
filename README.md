@@ -9,4 +9,4 @@ This bot randomly chooses between a Taylor Swift or Kanye West quote and message
 
 To use this bot you first need to allow it in a server which you are admin with the following [link](https://discord.com/oauth2/authorize?client_id=998985365543198881&scope=bot).
 
-After that you can run the main application in this repository and make sure that the API responsable for generating the quotes is up and running. You can found the source code for the API in [this](https://gitmind.birmind.cloud/guimilani/golang_quoteserver) other repository.
+After that you can run the main application in this repository and make sure that the API responsable for generating the quotes is up and running. You can found the source code for the API in [this](https://github.com/GuiMilani/golang-quoteserver) other repository.
